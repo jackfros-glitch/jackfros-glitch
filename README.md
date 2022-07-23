@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Am a python developer with a flaire for python currently use python to create website with python's framework such as Django and Flask,
+and familiar with frontend technologies such as html,css,javascript and bootstrap framework, love problem solving and creating digital
+solutions with python technologies,
+please feel free to contact me for your web project or let collaborate:
+
+- (Email)[mailto:hirekaanm3@gmail.com]
+- (linkedin)[https://www.linkedin.com/in/hirekaan-manasseh-22266821a/]
+- (twitter)[https://twitter.com/Awsome_ideas]
+
+
 <!--
 **jackfros-glitch/jackfros-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
