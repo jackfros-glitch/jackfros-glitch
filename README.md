@@ -5,9 +5,9 @@ and familiar with frontend technologies such as html,css,javascript and bootstra
 solutions with python technologies,
 please feel free to contact me for your web project or let collaborate:
 
-- (Email)[mailto:hirekaanm3@gmail.com]
-- (linkedin)[https://www.linkedin.com/in/hirekaan-manasseh-22266821a/]
-- (twitter)[https://twitter.com/Awsome_ideas]
+- [Email](mailto:hirekaanm3@gmail.com)
+- [linkedin](https://www.linkedin.com/in/hirekaan-manasseh-22266821a/)
+- [twitter](https://twitter.com/Awsome_ideas)
 
 
 <!--
