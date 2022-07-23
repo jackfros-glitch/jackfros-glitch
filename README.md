@@ -4,7 +4,7 @@ Am a python developer with a flaire for python currently use python to create we
 and familiar with frontend technologies such as html,css,javascript and bootstrap framework, love problem solving and creating digital
 solutions with python technologies.
 
-Please feel free to contact me for your web project or let collaborate:
+Please feel free to contact me for your web project or let's collaborate:
 
 - [Email](mailto:hirekaanm3@gmail.com)
 - [linkedin](https://www.linkedin.com/in/hirekaan-manasseh-22266821a/)
