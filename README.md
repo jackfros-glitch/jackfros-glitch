@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Am a python developer with a flaire for python currently use python to create website with python's framework such as Django and Flask,
+Am a python developer with a flair for python currently use python to create website with python's framework such as Django and Flask,
 and familiar with frontend technologies such as html,css,javascript and bootstrap framework, love problem solving and creating digital
-solutions with python technologies.
+solutions with python technologies, looking forward to opportunities where i can collaborate with other developers and employ my skills.
 
 Please feel free to contact me for your web project or let's collaborate:
 
