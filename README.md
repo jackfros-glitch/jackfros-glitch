@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Am a python developer with a flair for python currently use python to create website with python's framework such as Django and Flask,
-and familiar with frontend technologies such as html,css,javascript and bootstrap framework, love problem solving and creating digital
+Am a fullstack web developer with a flair for python currently use python to create website with python's framework such as Django and Flask,
+and familiar with frontend technologies such as html,css,javascript and with React.js, tailwind-css and bootstrap as my frameworks, love problem solving and creating digital
 solutions with python technologies, looking forward to opportunities where i can collaborate with other developers and employ my skills.
 
 Please feel free to contact me for your web project or let's collaborate:
