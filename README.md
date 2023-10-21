@@ -35,10 +35,12 @@ I'm a full-stack web developer with expertise in Python, particularly using fram
 <br >
 <br>
 Please feel free to contact me for your web project or let's collaborate:
+<br >
+<br>
 
-- [![Mail Badge](https://img.shields.io/badge/Mail-Email-informational?style=flat&logo=Mail&logoColor=white&color=0D76A8)](mailto:hirekaanm3@gmail.com)
-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hirekaan-manasseh-22266821a/)
-- [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Awsome_ideas)
+[![Mail Badge](https://img.shields.io/badge/Mail-Email-informational?style=flat&logo=Mail&logoColor=white&color=0D76A8)](mailto:hirekaanm3@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hirekaan-manasseh-22266821a/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Awsome_ideas)
 
 <!--
 **jackfros-glitch/jackfros-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
